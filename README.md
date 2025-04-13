@@ -1,4 +1,10 @@
 # plp_db_assignment
+
+This is a collaborative work of three members who are:
+Sophia Matano Salim
+Ronnie Kabala
+Mohammed Mbarak Hassan
+
 Bookstore Database Schema Overview
 This database models a simple online bookstore, capturing information about customers, books, orders, authors, addresses, and other related entities. Below is a description of each table and how they relate to one another.
 
