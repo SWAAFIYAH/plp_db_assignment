@@ -2,7 +2,10 @@
 Bookstore Database Schema Overview
 This database models a simple online bookstore, capturing information about customers, books, orders, authors, addresses, and other related entities. Below is a description of each table and how they relate to one another.
 
-# tables include
+# entity relation tables are in:
+/images/bookstore_schema.drawio(1).png
+
+# tables description 
 1. country
 Stores a list of countries used for customer addresses.
 
